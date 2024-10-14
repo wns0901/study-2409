@@ -1,4 +1,4 @@
-package 배열1.형성평가04;
+package hjy.정올.배열1.형성평가04;
 
 import java.util.Scanner;
 
