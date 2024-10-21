@@ -1,11 +1,3 @@
-function solution(n)
-{
-    let answer = 0;
-    const str = String(n);
-
-    for(let i = 0; i < str.length; i++) {
-        answer += Number(str[i]);
-    }
-
-    return answer;
+function solution(n) {
+    return String(n).split('').reduce((a, b) => Number(a) + Number(b),0);
 }
