@@ -1,4 +1,4 @@
-package jjy.프로그래머스.평균구하기;
+package jjy.프로그래머스.day241022.평균구하기;
 
 import java.util.Arrays;
 
