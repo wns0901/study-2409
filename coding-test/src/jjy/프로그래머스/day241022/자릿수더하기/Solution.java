@@ -1,4 +1,4 @@
-package jjy.프로그래머스.자릿수더하기;
+package jjy.프로그래머스.day241022.자릿수더하기;
 
 public class Solution {
     public int solution(int n) {
