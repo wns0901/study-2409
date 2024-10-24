@@ -1,6 +1,8 @@
 function solution(arr) {
-    var answer = 0;
-    cnt = 0;
+
+    let answer = 0;
+    let cnt = 0;
+
     for (i = 0; i < arr.length; i++) {
         answer += arr[i];
         cnt++;
