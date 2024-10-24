@@ -1,4 +1,4 @@
-package hye.프로그래머스.짝수와홀수;
+package hye.프로그래머스.day241022.짝수와홀수;
 
 public class Solution {
     public String solution(int num) {

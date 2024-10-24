@@ -1,4 +1,4 @@
-package hye.프로그래머스.평균_구하기;
+package hye.프로그래머스.day241022.평균_구하기;
 
 public class Solution {
     public int solution(int n) {
