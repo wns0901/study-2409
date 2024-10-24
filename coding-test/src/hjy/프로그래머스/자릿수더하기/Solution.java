@@ -1,7 +1,5 @@
 package hjy.프로그래머스.자릿수더하기;
 
-import java.util.*;
-
 public class Solution {
     public int solution(int n) {
         int answer = 0;
