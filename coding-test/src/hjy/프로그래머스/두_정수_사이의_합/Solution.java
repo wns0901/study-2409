@@ -8,7 +8,7 @@ package hjy.프로그래머스.두_정수_사이의_합;
 class Solution {
     public long solution(int a, int b) {
         long answer = 0;
-        if(a > b) {
+        if (a > b) {
             for (int i = b; i <= a; i++) {
                 answer += i;
                 return answer;
@@ -26,3 +26,4 @@ class Solution {
         }
         return answer;
     }
+}
