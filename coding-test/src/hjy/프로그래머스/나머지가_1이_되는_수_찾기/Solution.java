@@ -10,7 +10,7 @@ class Solution {
         Scanner sc = new Scanner(System.in);
         int answer = 0;
         int x = sc.nextInt();
-        answer = (n % x == 1)
+        answer = (n % x == 1);
 
         return answer;
     }
