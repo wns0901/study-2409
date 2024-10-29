@@ -1,4 +1,4 @@
-package hjy.프로그래머스.자릿수더하기;
+package hjy.프로그래머스.day202410.자릿수더하기;
 
 
 public class Solution {

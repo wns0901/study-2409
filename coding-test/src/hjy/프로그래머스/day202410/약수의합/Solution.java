@@ -1,4 +1,4 @@
-package hjy.프로그래머스.약수의합;
+package hjy.프로그래머스.day202410.약수의합;
 
 class Solution {
     public int solution(int n) {

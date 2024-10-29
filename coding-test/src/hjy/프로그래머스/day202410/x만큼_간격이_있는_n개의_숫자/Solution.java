@@ -1,4 +1,4 @@
-package hjy.프로그래머스.x만큼_간격이_있는_n개의_숫자;
+package hjy.프로그래머스.day202410.x만큼_간격이_있는_n개의_숫자;
 
 import java.util.Arrays;
 
