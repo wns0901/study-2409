@@ -1,4 +1,4 @@
-package hjy.프로그래머스.나머지가_1이_되는_수_찾기;
+package hjy.프로그래머스.day202410.나머지가_1이_되는_수_찾기;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ class Solution {
         Scanner sc = new Scanner(System.in);
         int answer = 0;
         int x = sc.nextInt();
-        answer = (n % x == 1)
+
 
         return answer;
     }
