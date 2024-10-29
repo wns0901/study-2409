@@ -1,4 +1,4 @@
-package lyn.프로그래머스.코딩테스트.Day241024;
+package lyn.프로그래머스.코딩테스트.day241024;
 
 public class 자연수뒤집어배열로만들기 {
     public int[] solution(long n) {

@@ -1,4 +1,4 @@
-package lyn.프로그래머스.코딩테스트.약수의합;
+package lyn.프로그래머스.코딩테스트.day241019.약수의합;
 
 public class 약수의합 {
     class Solution {
