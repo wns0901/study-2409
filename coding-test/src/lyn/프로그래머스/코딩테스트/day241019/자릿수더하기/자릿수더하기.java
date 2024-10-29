@@ -1,4 +1,4 @@
-package lyn.프로그래머스.코딩테스트.자릿수더하기;
+package lyn.프로그래머스.코딩테스트.day241019.자릿수더하기;
 
 public class 자릿수더하기 {
     public int solution(int n) {

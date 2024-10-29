@@ -1,4 +1,4 @@
-package lyn.프로그래머스.코딩테스트.Day241024;
+package lyn.프로그래머스.코딩테스트.day241024;
 
 public class 문자열내p와y의개수 {
     boolean solution(String s) {
@@ -43,3 +43,34 @@ public class 문자열내p와y의개수 {
 //    // p와 y의 개수가 같거나 둘 다 0인 경우 true 반환
 //    return pCount === yCount;
 //}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
