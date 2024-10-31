@@ -19,4 +19,5 @@ function solution(x) {
     }
     return answer;
 }
-document.writeln(solution(18))
+
+solution(18);

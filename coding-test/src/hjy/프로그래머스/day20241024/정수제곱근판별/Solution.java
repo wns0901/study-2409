@@ -1,4 +1,5 @@
 package hjy.프로그래머스.day20241024.정수제곱근판별;
+
 /*
 * 임의의 양의 정수 n에 대해, n이
 *  어떤 양의 정수 x의 제곱인지 아닌지 판단하려 합니다.
@@ -8,9 +9,9 @@ class Solution {
     public long solution(long n) {
         long answer = 0;
         for (int i = 1; i <= n; i++) {
-            long sqrt = (long) Math.sqrt(n);
+            double sqrt = Math.sqrt(n);
             if (n % sqrt == 0) {
-                answer = (sqrt + 1) * (sqrt + 1);
+                answer = (long) ((sqrt + 1) * (sqrt + 1));
                 return answer;
             } else {
                 answer = -1;
@@ -23,6 +24,6 @@ class Solution {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(solution.solution(2));
+        System.out.println(solution.solution(3));
     }
 }
