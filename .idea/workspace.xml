@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4551c91b-0f6a-44a0-ad73-7f41a013313f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/나누어_떨어지는_숫자_배열/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/나누어_떨어지는_숫자_배열/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/나누어_떨어지는_숫자_배열/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/나누어_떨어지는_숫자_배열/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/서울에서_김서방_찾기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/서울에서_김서방_찾기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/서울에서_김서방_찾기/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/서울에서_김서방_찾기/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/정수_내림차순으로_배치하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/정수_내림차순으로_배치하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/정수_내림차순으로_배치하기/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/정수_내림차순으로_배치하기/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/정수_제곱근_판별/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/정수_제곱근_판별/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/정수_제곱근_판별/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/정수_제곱근_판별/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/하샤드_수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/하샤드_수/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/하샤드_수/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241029/하샤드_수/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +26,17 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2nmASZ7XokEONrAuUl7ioXNln25" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;ldh&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lyn&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/idonghui/Desktop/study-2409&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -78,6 +72,9 @@
       <workItem from="1729761813142" duration="5115000" />
       <workItem from="1729815646040" duration="47000" />
       <workItem from="1730185750647" duration="191000" />
+      <workItem from="1730948718375" duration="403000" />
+      <workItem from="1731311663707" duration="1105000" />
+      <workItem from="1731369365539" duration="11680000" />
     </task>
     <servers />
   </component>
