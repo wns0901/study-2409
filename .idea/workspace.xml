@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4551c91b-0f6a-44a0-ad73-7f41a013313f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241031/없는_숫자_더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241031/없는_숫자_더하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241031/없는_숫자_더하기/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241031/없는_숫자_더하기/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/jjy/프로그래머스/day241031/없는_숫자_더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/jjy/프로그래머스/day241031/없는_숫자_더하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/jjy/프로그래머스/day241031/콜라츠_추측/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/jjy/프로그래머스/day241031/콜라츠_추측/solution.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +28,17 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2nmASZ7XokEONrAuUl7ioXNln25" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;ldh&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;jjy&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/idonghui/Desktop/study-2409&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -48,8 +52,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
       </set>
     </attachedChunks>
   </component>
@@ -71,6 +75,9 @@
       <workItem from="1729815646040" duration="47000" />
       <workItem from="1730185750647" duration="462000" />
       <workItem from="1730363150570" duration="359000" />
+      <workItem from="1731391321535" duration="406000" />
+      <workItem from="1731402240101" duration="5607000" />
+      <workItem from="1731461097786" duration="81000" />
     </task>
     <servers />
   </component>
