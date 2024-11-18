@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4551c91b-0f6a-44a0-ad73-7f41a013313f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241031/없는_숫자_더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241031/없는_숫자_더하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241031/없는_숫자_더하기/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241031/없는_숫자_더하기/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/나누어떨어지는_숫자_배열/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/서울에서_김서방_찾기/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/서울에서_김서방_찾기/Solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/정수_내림차순으로_배치하기/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/정수_내림차순으로_배치하기/Solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/정수제곱근판별/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/정수제곱근판별/Solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/하샤드수/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/하샤드수/Solution.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +40,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;ldh&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hjy&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/idonghui/Desktop/study-2409&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -48,8 +54,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
       </set>
     </attachedChunks>
   </component>
@@ -71,6 +77,10 @@
       <workItem from="1729815646040" duration="47000" />
       <workItem from="1730185750647" duration="462000" />
       <workItem from="1730363150570" duration="359000" />
+      <workItem from="1731517770895" duration="150000" />
+      <workItem from="1731854511820" duration="676000" />
+      <workItem from="1731905657528" duration="103000" />
+      <workItem from="1731919168014" duration="504000" />
     </task>
     <servers />
   </component>
