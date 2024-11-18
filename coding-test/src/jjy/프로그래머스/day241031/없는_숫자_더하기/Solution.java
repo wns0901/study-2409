@@ -11,7 +11,7 @@ public class Solution {
         IntStream stream = Arrays.stream(new int[]{0, 1, 2, 3, 4, 5, 6, 7, 8, 9});
         List<Integer> list = Arrays.stream(numbers)
                 .boxed()
-                .collect(Collectors.toList());
+                .toList();
         return stream.filter(e -> !list.contains(e)).reduce(0, Integer::sum);
     }
 }
