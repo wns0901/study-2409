@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4551c91b-0f6a-44a0-ad73-7f41a013313f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241031/음양_더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241031/음양_더하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/가운데_글자_가져오기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/가운데_글자_가져오기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/가운데_글자_가져오기/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/가운데_글자_가져오기/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/내적/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/내적/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/내적/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/내적/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/수박수박수박수박수박수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/수박수박수박수박수박수/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/수박수박수박수박수박수/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/수박수박수박수박수박수/solution.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +32,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;ldh&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hye&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/idonghui/Desktop/study-2409&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -53,8 +46,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
       </set>
     </attachedChunks>
   </component>
@@ -80,6 +73,7 @@
       <workItem from="1730366045465" duration="1345000" />
       <workItem from="1731385741892" duration="673000" />
       <workItem from="1731572116377" duration="140000" />
+      <workItem from="1731653764142" duration="1656000" />
     </task>
     <servers />
   </component>
