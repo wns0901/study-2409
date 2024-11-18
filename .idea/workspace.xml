@@ -5,6 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4551c91b-0f6a-44a0-ad73-7f41a013313f" name="Changes" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/나누어떨어지는_숫자_배열/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/서울에서_김서방_찾기/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/서울에서_김서방_찾기/Solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/정수_내림차순으로_배치하기/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/정수_내림차순으로_배치하기/Solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/정수제곱근판별/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/정수제곱근판별/Solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/하샤드수/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day20241024/하샤드수/Solution.js" beforeDir="false" />
+=======
       <change afterPath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day241114/가운데_글자_가져오기/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day241114/가운데_글자_가져오기/solution.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/coding-test/src/hjy/프로그래머스/day241114/내적/Solution.java" afterDir="false" />
@@ -80,6 +91,7 @@
       <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/수박수박수박수박수박수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/수박수박수박수박수박수/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/수박수박수박수박수박수/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test/src/ldh/프로그래머스/day241114/수박수박수박수박수박수/solution.js" afterDir="false" />
 >>>>>>> 15db5f9c827a37ef76a8a9ced23ebc29222ba890
+>>>>>>> e0bdec73283466e5d49e2ac95f5519433ca8a354
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +118,20 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hjy&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/idonghui/Desktop/study-2409&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -118,13 +144,14 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+>>>>>>> e0bdec73283466e5d49e2ac95f5519433ca8a354
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
       </set>
     </attachedChunks>
   </component>
@@ -145,11 +172,19 @@
       <workItem from="1729761813142" duration="5115000" />
       <workItem from="1729815646040" duration="47000" />
       <workItem from="1730185750647" duration="462000" />
+<<<<<<< HEAD
+      <workItem from="1730363150570" duration="359000" />
+      <workItem from="1731517770895" duration="150000" />
+      <workItem from="1731854511820" duration="676000" />
+      <workItem from="1731905657528" duration="103000" />
+      <workItem from="1731919168014" duration="504000" />
+=======
       <workItem from="1730363150570" duration="465000" />
       <workItem from="1730365817247" duration="37000" />
       <workItem from="1730366045465" duration="1345000" />
       <workItem from="1731385741892" duration="673000" />
       <workItem from="1731572116377" duration="140000" />
+>>>>>>> e0bdec73283466e5d49e2ac95f5519433ca8a354
     </task>
     <servers />
   </component>
