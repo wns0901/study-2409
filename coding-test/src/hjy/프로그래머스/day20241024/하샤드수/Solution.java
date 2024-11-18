@@ -11,11 +11,11 @@ class Solution {
     public boolean solution(int x) {
         boolean answer = true;
         int sum = 0;
-        Object[] arrNum = Stream.of(String.valueOf(x).split("")).toArray();
+        Object[] arrNum = String.valueOf(x).split("");
         for (int i = 0; i < arrNum.length; i++) {
             sum += Integer.parseInt(arrNum[i].toString());
             System.out.println(sum);
-            if( x % sum == 0 ){
+            if (x % sum == 0) {
                 answer = true;
             } else {
                 answer = false;
@@ -23,6 +23,7 @@ class Solution {
         }
         return answer;
     }
+
     public static void main(String[] args) {
         Solution solution = new Solution();
         System.out.println(solution.solution(18));
